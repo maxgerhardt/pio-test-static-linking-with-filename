@@ -1,0 +1,5 @@
+#include "example_lib.h"
+
+int example_lib_function() {
+    return 42;
+}
